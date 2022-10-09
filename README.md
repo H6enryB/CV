@@ -1,13 +1,13 @@
-## Your Name
+## Henry Boylan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hi there!  I am a Ruby full stack developer, looking to experience all parts of coding!  I have started coding from scratch a little over a month ago and loving every second.  The idea of squashing bugs and creating something new as well as useful is something I strive to reach with this job role!
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+|                              |                   |                   |
+|                              |                   |                   |
 
 ## Work Experience
 
